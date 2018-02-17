@@ -1,4 +1,4 @@
-console.log("wordList loaded");
+//console.log("wordList loaded");
 
 var wordList = 
     [

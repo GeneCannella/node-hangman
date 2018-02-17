@@ -1,4 +1,4 @@
-console.log("Word constructor loaded");
+//console.log("Word constructor loaded");
 
 var words = require("./wordList.js"); //line line not right, stopped typing mid way
 //console.log(words);
@@ -66,3 +66,4 @@ function Word(wordArray) {
 }
 
     module.exports = Word;
+

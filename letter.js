@@ -1,4 +1,4 @@
-console.log("Letter constructor loaded");
+//console.log("Letter constructor loaded");
 function Letter(character){
 	this.letter = character;
 	this.hidden = true;
